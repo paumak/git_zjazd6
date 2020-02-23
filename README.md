@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # git_zjazd6
 
 ### Korzystanie z projektu:
@@ -10,3 +11,6 @@ Więcej o projekcie:
 1. git commit
 2. git status
 3. git init
+=======
+# projekt2
+>>>>>>> 448549524042b443d33ce43c3f25f403f6074c15
