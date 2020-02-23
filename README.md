@@ -5,3 +5,8 @@ Aby skorzystać z projektu należy **sklonować** repozytorium lub wykorzystać 
 
 Więcej o projekcie:
 [Kliknik tutaj aby zobaczyć więcej](https://www.wsb.pl/wroclaw)
+
+###### Ulubione polecenia gita:
+1. git commit
+2. git status
+3. git init
