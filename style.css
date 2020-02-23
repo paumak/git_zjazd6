@@ -9,8 +9,22 @@ p {
 }
 
 li {
-    font-size: 30px;
+    font-size: 16px;
     display: flex;
     flex-direction: column;
-    color: yellow;
+    color: black;
+}
+
+.branches {
+    color: black;
+    font-size: 30px;
+    margin: 2px solid;
+}
+
+.branches li {
+    color: black;
+}
+
+.branches p {
+    background-color: red;
 }
