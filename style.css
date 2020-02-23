@@ -1,3 +1,14 @@
+body {
+    background-color: lightskyblue;
+}
+
 p {
-    background-color: yellowgreen;
+    font-size: 20px;
+    background-color: aqua;
+    margin: 35px;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
 }
